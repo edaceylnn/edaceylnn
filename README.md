@@ -4,9 +4,7 @@ I am a Full Stack Developer with a strong passion for frontend development, focu
 
 I specialize in creating responsive and high-performance frontend applications using Vue.js, Nuxt.js, React.js, and TypeScript, while also supporting backend development with Python (FastAPI) and Node.js when needed. I value clean architecture, performance optimization, and delivering end-to-end solutions from database design to deployment.
 
-**Know about my experiences:** [LinkedIn](https://www.linkedin.com/in/edaceylan/)
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
@@ -37,7 +35,7 @@ I specialize in creating responsive and high-performance frontend applications u
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-## 🌐 Social
+## Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edaceylan/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@edaceylan.com)
