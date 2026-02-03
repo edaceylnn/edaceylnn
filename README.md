@@ -44,6 +44,3 @@ I specialize in creating responsive and high-performance frontend applications u
 
 ---
 
-![Eda's GitHub stats](https://github-readme-stats.vercel.app/api?username=edaceylnn&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edaceylnn&layout=compact&theme=dark)
